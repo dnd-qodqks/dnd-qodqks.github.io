@@ -2,32 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>dnd-qodqks blog</title>
-    <link>http://localhost:1313/</link>
+    <link>https://dnd-qodqks.github.io/</link>
     <description>Recent content on dnd-qodqks blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Oct 2024 02:25:53 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Test3</title>
-      <link>http://localhost:1313/post/test3/</link>
-      <pubDate>Tue, 29 Oct 2024 02:25:53 +0900</pubDate>
-      <guid>http://localhost:1313/post/test3/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Test2</title>
-      <link>http://localhost:1313/post/test2/</link>
-      <pubDate>Tue, 29 Oct 2024 02:19:16 +0900</pubDate>
-      <guid>http://localhost:1313/post/test2/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Test</title>
-      <link>http://localhost:1313/post/test/</link>
-      <pubDate>Tue, 29 Oct 2024 01:43:08 +0900</pubDate>
-      <guid>http://localhost:1313/post/test/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://dnd-qodqks.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
