@@ -6,7 +6,14 @@
     <description>Recent content in Posts on dnd-qodqks&#39;s blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Thu, 31 Oct 2024 04:10:42 +0900</lastBuildDate>
     <atom:link href="https://dnd-qodqks.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://dnd-qodqks.github.io/posts/test/</link>
+      <pubDate>Thu, 31 Oct 2024 04:10:42 +0900</pubDate>
+      <guid>https://dnd-qodqks.github.io/posts/test/</guid>
+      <description>&lt;p&gt;안녕하세요. 웅뱅반입니다.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
