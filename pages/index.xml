@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on dnd-qodqks&#39;s blog</title>
-    <link>https://dnd-qodqks.github.io/pages/</link>
+    <link>http://localhost:1313/pages/</link>
     <description>Recent content in Pages on dnd-qodqks&#39;s blog</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="https://dnd-qodqks.github.io/pages/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
